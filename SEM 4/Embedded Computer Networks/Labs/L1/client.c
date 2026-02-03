@@ -1,9 +1,7 @@
 #include <stdio.h>
-//printf
 #include <string.h>
-//strlen
-#include <sys/socket.h> //socket
-#include <arpa/inet.h> //inet_addr
+#include <sys/socket.h> 
+#include <arpa/inet.h> 
 #include <unistd.h>
 
 int main(int argc , char *argv[]){
