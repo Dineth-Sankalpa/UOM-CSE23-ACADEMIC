@@ -1,0 +1,25 @@
+You are part of a software team that have undertaken a computer game development project.
+
+Your client has asked your team to propose the game that could be of any type including role playing game (RPG), action-adventure game, strategy game, etc.
+
+Your project manager has decided to undertake the development using Object Oriented Software Development (OOSD) methodology with Object Oriented Analysis (OOA), Object Oriented Design (OOD), and Object Oriented Programming (OOP).
+
+Therefore, your team has decided that it is important and necessary to come up with a game idea that has many different types of objects!
+
+Task 1: Provide a brief textual description of the game you are developing for your client to review. You may augment the game description with a few diagrams and figures if necessary. The description must contain all the salient points that the client may have an interest in.
+
+Task 2: Provide a technical description of the game using Object Oriented Analysis and Design (OOAD) approach. You are required to use the Unified Markup Language (UML) with following types of behavioural design documents:
+
+Use Case Diagrams
+Activity Diagrams
+Sequence Diagrams
+State Machine Diagrams
+This is a group project activity.
+
+Only one member of the project group needs to upload your group work.
+
+The Analysis and Design document must be submitted as a PDF file.
+
+To complete this assignment, you will have to search and find information that is freely available on the Internet. These include textbooks, articles, videos, forums, etc. Remember to list the resources you use at the end of your document in a References section. Include the URL if the resource you used is accessible through a web browser.
+
+All design diagrams must be generated with an appropriate tool (no hand drawings are allowed). You must indicate the tool used to generate the UML content in the design document. You may use free online tools such as Creately, Draw.io, LucidChart, etc.
