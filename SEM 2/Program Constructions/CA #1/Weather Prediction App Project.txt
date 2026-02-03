@@ -1,0 +1,34 @@
+You have been asked to develop a system to improve the prediction of weather in Sri Lanka by collecting rainfall data.
+
+The idea is for individual citizens to use a smartphone app and record the starting time of any rain event along with the location given as GPS data, the ending time of the same rain event and location data (because the person may have moved during the rain), and amount of observed rain in a 5-value scale as Very heavy rain, Heavy rain, Moderate rain, Light rain, and Very light rain.
+
+This collected data will be sent to a database server for creating a dataset that can be used in a ML/AI software product.
+
+This is a group project activity.
+
+Only one member of the project group needs to upload your group work.
+
+First task is to conduct the following activities and prepare a suitable document.
+
+Systems requirements analysis
+System requirements specification
+Software requirements analysis
+Software requirements specification
+The report must be submitted as a PDF file.
+
+To complete this assignment, you will have to search and find information that is freely available on the Internet. These include textbooks, articles, videos, forums, etc. Remember to list the resources you use at the end of your report in a References section. Include the URL if the resource you used is accessible through a web browser.
+
+You must make only one submission per group.
+
+The proposed structure of the submission is:
+
+Cover page with a suitable project name/title selected by the group.
+A brief introduction to the project giving the background, project description, importance, and usefulness.
+Based on the introduction and project description, a brief systems requirements analysis.
+Based on the systems requirements analysis, an itemized list of systems requirements specification with a brief explanation of each requirement.
+Based on the systems requirements specification, a brief software requirements analysis.
+Based on the software requirements analysis, an itemized list of software requirements specification (SRS) with a brief explanation of each requirement.
+A references section as noted earlier.
+It is suggested to include appropriate diagrams with correct labels and annotations in above sections of the submission.
+
+You can be brief in your text descriptions. But they must be clear and correct.
